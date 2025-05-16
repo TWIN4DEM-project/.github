@@ -1,6 +1,7 @@
 # TWIN4DEM
 
-![EU Flag](https://rea.ec.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-04/EN-Funded%20by%20the%20EU-POS.jpg?itok=7c32qkou)
+![eu_funded_en](https://github.com/user-attachments/assets/f1964940-538f-4438-840d-b83d5efe4d5f)
+
 > Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them
 
 ---
